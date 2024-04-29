@@ -1,3 +1,6 @@
 # apnacollege-demo
+
 this is my first repository.
-author - ali jamil malik 
+<br>
+author - ali jamil malik (malik)
+
